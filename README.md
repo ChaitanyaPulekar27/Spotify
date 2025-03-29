@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
 # 1. Clone the Repository:
 git clone https://github.com/your-username/Spotify.git
 cd Spotify
-Open index.html in your browser:
+# 2. Open index.html in your browser:
 You can simply open index.html directly in your browser or use a live server for a better experience.
 
 

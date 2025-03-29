@@ -20,7 +20,7 @@ Welcome to the Music App project! This app provides an engaging user interface f
 Follow these steps to set up the project locally:
 
 # 1. Clone the Repository:
-git clone https://github.com/your-username/Spotify.git
+git clone https://github.com/ranigilhare/Spotify.git
 
 cd Spotify
 # 2. Open index.html in your browser:
